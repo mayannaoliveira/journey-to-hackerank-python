@@ -18,6 +18,8 @@ Print `Hello, World!` to stdout.
 **Sample Output: **
 `Hello, World!`
 
+:snake: **Solve: **
+
 ```python
 if __name__ == '__main__':
     print("")
@@ -63,6 +65,8 @@ Print `Weird` if the number is weird. Otherwise, print `Not Weird`.
   $n=24$
   $n>20$ and $n$ is even, so it is not weird.
 
+:snake: **Solve:**
+
 ```python
 #!/bin/python3
 
@@ -87,12 +91,10 @@ else:
 ```
 
 <details close>
-<summary> <b> Output: </b> </summary>
-<p>
-Input (stdin): `3`.
-Y<p>our Output (stdout): `Weird`.
-Expected Output: `Weird`.
-</p>
+<summary> <b> :woman_technologist: Output: </b> </summary>
+<p>Input (stdin): 3.</p>
+<p>Output (stdout): Weird.</p>
+<p>Expected Output: Weird.</p>
 </details>
 
 ### Arithmetic Operators
@@ -143,7 +145,7 @@ $3+2 ==> 5$
 $3-2 ==> 1$
 $3*2 ==> 6$
 
-**Solve: **
+:snake: **Solve: **
 
 ```python
 if __name__ == '__main__':
@@ -223,7 +225,7 @@ Print the two lines as described above.
 1.33333333333
 ```
 
-**Solve:**
+:snake: **Solve:**
 ```python
  if __name__ == '__main__':
     a = int(input())
@@ -234,7 +236,8 @@ Print the two lines as described above.
 ```
 
 <details close>
-<summary> <b> Output: </b> </summary>
+<summary> <b> :woman_technologist: Output: </b> </summary>
+
  **Input (stdin)**
 
 ```python
