@@ -129,6 +129,7 @@
 </tr>
 </table>
 
+
 <!-- Basic Data Types -->
 </br>
 <table>
@@ -153,33 +154,11 @@
 <!-- Fim da Linha-->
 <!-- Início da Linha -->
 <tr>
-<td>Title</td>
-<td><a href="/basic-data-types/">
+<td>Find the Runner-Up Score!</td>
+<td><a href="/basic-data-types/find-runner-upscore.md">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
 <td>
-<a href=" ">
-<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
-</a></td>
-</tr>
-<!-- Fim da Linha-->
-<!-- Início da Linha -->
-<tr>
-<td>Title</td>
-<td><a href="/basic-data-types/">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
-<td>
-<a href=" ">
-<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
-</a></td>
-</tr>
-<!-- Fim da Linha-->
-<!-- Início da Linha -->
-<tr>
-<td>Title</td>
-<td><a href="/basic-data-types/">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
-<td>
-<a href=" ">
+<a href="/basic-data-types/find-runner-upscore.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
 </a></td>
 </tr>
@@ -207,6 +186,52 @@
 </tr>
 <!-- Fim da Linha-->
 </table>
+
+<!-- Continua -->
+<!-- </br>
+<table>
+<tr> 
+<p align="left"><b>Continua:</b></p>
+<th>Challenge</th>
+<th>Solving</th>
+<th>Code</th>
+</tr>
+<tr> -->
+<!-- Início da Linha -->
+<!-- <tr>
+<td>Title</td>
+<td><a href="/basic-data-types/">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
+<td>
+<a href=" ">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
+</a></td>
+</tr> -->
+<!-- Fim da Linha-->
+<!-- Início da Linha -->
+<!-- <tr>
+<td>Title</td>
+<td><a href="/basic-data-types/">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
+<td>
+<a href=" ">
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
+</a></td>
+</tr> -->
+<!-- Fim da Linha-->
+<!-- </table> -->
+
+> [!IMPORTANT]
+> Please check the Python Documentation before run this repository, I sure recommended the version 3.
+
+To run .py files in your machine just follow the streps:
+1. Clone this project.
+2. Open the terminal
+3. Check Python version `python --version`.
+4. Inserir in terminal `python .\hello.py`, `py .\hello.py` ou `python3 .\hello.py`.
+5. Check the terminal response: 
+`Hello, World! Just testing the Python running.`
+</br>
 
 
 Follow me in [HackerRank](https://www.hackerrank.com/profile/mayannait). :eyeglasses:
