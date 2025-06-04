@@ -1,10 +1,7 @@
-	:coffee: **Work in Progress:**  
-	![progress-bar](https://geps.dev/progress/3?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
-  
+:coffee: **Work in Progress:**  
+![progress-bar](https://geps.dev/progress/3?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ---
-
 
 <div align="center">
 <a href="https://www.hackerrank.com/profile/mayannait">
@@ -36,9 +33,11 @@
   - Lists
   - Tuples
 
-
+<!-- Prepare by topics -->
+</br>
 <table>
-<tr>
+<tr> 
+<p align="left"><b>Prepare by topics:</b></p>
 <th>Challenge</th>
 <th>Solving</th>
 <th>Code</th>
@@ -113,29 +112,41 @@
 <td><a href="/prepare-by-topics/write-function.md">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a></td>
 <td>
-<a href=" ">
+<a href="/prepare-by-topics/write-function.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
 </a></td>
 </tr>
 <!-- Fim da Linha-->
 <!-- Início da Linha -->
 <tr>
-<td>Title</td>
-<td><a href="/prepare-by-topics/">
+<td>Print a funcion</td>
+<td><a href="/prepare-by-topics/print-function.md">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a></td>
 <td>
-<a href=" ">
+<a href="/prepare-by-topics/print-function.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
 </a></td>
 </tr>
+</table>
+
+<!-- Basic Data Types -->
+</br>
+<table>
+<tr> 
+<p align="left"><b>Basic Data Types:</b></p>
+<th>Challenge</th>
+<th>Solving</th>
+<th>Code</th>
+</tr>
+<tr>
 <!-- Fim da Linha-->
 <!-- Início da Linha -->
 <tr>
-<td>Title</td>
-<td><a href="/prepare-by-topics/">
+<td>List Comprehensions</td>
+<td><a href="/basic-data-types/list-comprehensions.md">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"></a></td>
 <td>
-<a href=" ">
+<a href="/basic-data-types/list-comprehensions.py">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=flat&logo=PythonAnywhere&logoColor=white" alt="PythonAnywhere">
 </a></td>
 </tr>
@@ -143,7 +154,7 @@
 <!-- Início da Linha -->
 <tr>
 <td>Title</td>
-<td><a href="/prepare-by-topics/">
+<td><a href="/basic-data-types/">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
 <td>
 <a href=" ">
@@ -154,7 +165,7 @@
 <!-- Início da Linha -->
 <tr>
 <td>Title</td>
-<td><a href="/prepare-by-topics/">
+<td><a href="/basic-data-types/">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
 <td>
 <a href=" ">
@@ -165,7 +176,7 @@
 <!-- Início da Linha -->
 <tr>
 <td>Title</td>
-<td><a href="/prepare-by-topics/">
+<td><a href="/basic-data-types/">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
 <td>
 <a href=" ">
@@ -176,7 +187,7 @@
 <!-- Início da Linha -->
 <tr>
 <td>Title</td>
-<td><a href="/prepare-by-topics/">
+<td><a href="/basic-data-types/">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
 <td>
 <a href=" ">
@@ -187,7 +198,7 @@
 <!-- Início da Linha -->
 <tr>
 <td>Title</td>
-<td><a href="/prepare-by-topics/">
+<td><a href="/basic-data-types/">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt=""Python"></a></td>
 <td>
 <a href=" ">

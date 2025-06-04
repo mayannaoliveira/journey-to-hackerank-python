@@ -39,7 +39,12 @@ if __name__ == '__main__':
 Solving
 
 ```python
- 
+ if __name__ == '__main__':
+    n = int(input())
+    result = ""
+    for i in range(1, n + 1):
+        result += str(i)
+    print(result)
 ```
 
 :snake: Please check the code in [PythonAnywhere](https://www.pythonanywhere.com/user/mayannaoliveira/shares/e708905cd660496481e5068f65f77401/).
